@@ -1,5 +1,8 @@
 _repo: London-and-its-Environs-Described-vol-1-of-6-Containing-an-Account-of-whatever-is-most-remark__59466
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59466-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -10,6 +13,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59466#London-and-its-Environs-Described-vol-1-of-6-Containing-an-Account-of-whatever-is-most-remark_
 gutenberg_issued: '2019-05-09'
 gutenberg_type: Text
 identifiers:
